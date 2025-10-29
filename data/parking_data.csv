@@ -1,0 +1,5 @@
+invoice_id,brand,model,color,registration_number,entry_date,entry_time,exit_date,exit_time,price_per_hour,total_amount
+1,BMW,320i,Черный,А123БВ77,2024-01-15,08:30:00,2024-01-15,14:45:00,150,950
+2,Mercedes-Benz,C200,Белый,В456ГД78,2024-01-15,09:15:00,2024-01-15,18:20:00,150,1350
+3,Toyota,Camry,Серый,С789ЕЖ99,2024-01-16,10:00:00,2024-01-16,16:30:00,150,975
+
